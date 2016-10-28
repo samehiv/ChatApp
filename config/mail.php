@@ -56,7 +56,7 @@ return [
     */
 
     'from' => [
-        'address' => 'support@chatapp.com',
+        'address' => 'support@thechatapp.com',
         'name' => 'support',
     ],
 
